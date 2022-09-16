@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ogkirby.png"><SubTexture name="ogkirby up0000" x="0" y="0" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby up0001" x="881" y="0" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby up0002" x="1762" y="0" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby down0000" x="0" y="688" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby down0001" x="881" y="688" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby down0002" x="1762" y="688" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby idle0000" x="0" y="1376" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby left0000" x="881" y="1376" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby left0001" x="1762" y="1376" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby left0002" x="0" y="2064" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby right0000" x="881" y="2064" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby right0001" x="1762" y="2064" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby right0002" x="0" y="2752" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+<SubTexture name="ogkirby fuck0000" x="881" y="2752" width="881" height="688" frameX="0" frameY="0" frameWidth="881" frameHeight="688" />
+</TextureAtlas>
