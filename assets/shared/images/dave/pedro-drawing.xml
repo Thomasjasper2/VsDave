@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="pedro-drawing.png"><SubTexture name="pedro-drawing idle0000" x="914" y="695" width="322" height="548" frameX="-281" frameY="-98" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0001" x="1344" y="548" width="322" height="434" frameX="-281" frameY="-212" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0002" x="1050" y="1258" width="322" height="327" frameX="-281" frameY="-319" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0003" x="1344" y="548" width="322" height="434" frameX="-281" frameY="-212" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0004" x="914" y="695" width="322" height="548" frameX="-281" frameY="-98" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0005" x="1344" y="548" width="322" height="434" frameX="-281" frameY="-212" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0006" x="1050" y="1258" width="322" height="327" frameX="-281" frameY="-319" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0007" x="1344" y="548" width="322" height="434" frameX="-281" frameY="-212" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0008" x="914" y="695" width="322" height="548" frameX="-281" frameY="-98" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0009" x="1344" y="548" width="322" height="434" frameX="-281" frameY="-212" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0010" x="1050" y="1258" width="322" height="327" frameX="-281" frameY="-319" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0011" x="1344" y="548" width="322" height="434" frameX="-281" frameY="-212" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0012" x="914" y="695" width="322" height="548" frameX="-281" frameY="-98" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0013" x="1344" y="548" width="322" height="434" frameX="-281" frameY="-212" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0014" x="1050" y="1258" width="322" height="327" frameX="-281" frameY="-319" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0015" x="1344" y="548" width="322" height="434" frameX="-281" frameY="-212" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing idle0016" x="914" y="695" width="322" height="548" frameX="-281" frameY="-98" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing down0000" x="0" y="1258" width="525" height="466" frameX="-163" frameY="-181" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing down0001" x="525" y="1258" width="525" height="418" frameX="-163" frameY="-229" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing down0002" x="0" y="1258" width="525" height="466" frameX="-163" frameY="-181" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing up0000" x="405" y="0" width="404" height="660" frameX="-271" frameY="-36" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing up0001" x="0" y="0" width="405" height="695" frameX="-270" frameY="-1" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing up0002" x="405" y="0" width="404" height="660" frameX="-271" frameY="-36" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing left0000" x="1344" y="0" width="383" height="548" frameX="-251" frameY="-98" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing left0001" x="1727" y="548" width="399" height="546" frameX="-216" frameY="-101" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing left0002" x="485" y="695" width="429" height="561" frameX="-160" frameY="-86" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing left0003" x="1344" y="0" width="383" height="548" frameX="-251" frameY="-98" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing left0004" x="1727" y="548" width="399" height="546" frameX="-216" frameY="-101" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing right0000" x="1727" y="0" width="412" height="548" frameX="-283" frameY="-98" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing right0001" x="0" y="695" width="485" height="563" frameX="-288" frameY="-84" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing right0002" x="809" y="0" width="535" height="572" frameX="-294" frameY="-75" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing right0003" x="0" y="695" width="485" height="563" frameX="-288" frameY="-84" frameWidth="914" frameHeight="696" />
+<SubTexture name="pedro-drawing right0004" x="1727" y="0" width="412" height="548" frameX="-283" frameY="-98" frameWidth="914" frameHeight="696" />
+</TextureAtlas>

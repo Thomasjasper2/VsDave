@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="madpedro.png">
+<SubTexture name="madpedro idle0000" x="0" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro idle0001" x="2427" y="0" width="332" height="504" frameX="-511" frameY="-510" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro idle0002" x="376" y="2289" width="391" height="373" frameX="-452" frameY="-641" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro idle0003" x="2427" y="0" width="332" height="504" frameX="-511" frameY="-510" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro idle0004" x="0" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro idle0005" x="0" y="2289" width="376" height="461" frameX="-520" frameY="-553" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro idle0006" x="767" y="2289" width="432" height="338" frameX="-520" frameY="-676" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro idle0007" x="0" y="2289" width="376" height="461" frameX="-520" frameY="-553" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro idle0008" x="0" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro down0000" x="323" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro down0001" x="2427" y="1395" width="323" height="338" frameX="-520" frameY="-676" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro down0002" x="2427" y="1733" width="323" height="338" frameX="-520" frameY="-676" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro down0003" x="2427" y="992" width="323" height="403" frameX="-520" frameY="-676" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro down0004" x="2427" y="504" width="323" height="488" frameX="-520" frameY="-676" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro down0005" x="1938" y="1742" width="323" height="537" frameX="-520" frameY="-676" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro up0000" x="646" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro up0001" x="0" y="1014" width="323" height="728" frameX="-520" frameY="-286" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro up0002" x="0" y="0" width="323" height="1014" frameX="-520" frameY="0" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro up0003" x="0" y="1014" width="323" height="728" frameX="-520" frameY="-286" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro up0004" x="646" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro left0000" x="969" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro left0001" x="1526" y="1014" width="347" height="629" frameX="-496" frameY="-385" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro left0002" x="1010" y="0" width="633" height="847" frameX="-210" frameY="-167" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro right0000" x="1292" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro right0001" x="323" y="1014" width="465" height="680" frameX="-520" frameY="-334" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro right0002" x="323" y="0" width="687" height="907" frameX="-520" frameY="-107" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro attacking0000" x="1615" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro attacking0001" x="1873" y="1014" width="518" height="584" frameX="-552" frameY="-431" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro attacking0002" x="788" y="1014" width="738" height="640" frameX="-547" frameY="-375" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro attacking0003" x="1643" y="0" width="784" height="733" frameX="-622" frameY="-282" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro attacking0004" x="788" y="1014" width="738" height="640" frameX="-547" frameY="-375" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro attacking0005" x="1873" y="1014" width="518" height="584" frameX="-552" frameY="-431" frameWidth="1408" frameHeight="1292" />
+<SubTexture name="madpedro attacking0006" x="1615" y="1742" width="323" height="547" frameX="-520" frameY="-467" frameWidth="1408" frameHeight="1292" />
+</TextureAtlas>
